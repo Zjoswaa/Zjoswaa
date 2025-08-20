@@ -10,6 +10,7 @@ Courses I have followed on at the Rotterdam University of Applied Sciences.
 | [HR-Y2-Algorithms](https://github.com/Zjoswaa/HR-Y2-Algorithms) | Data Structures & Algorithms in C#, sorting, search, linked list, stack, queue, hash table, trees, graphs, Dijkstra, George-Warshall.
 | [HR-Y2-Networking](https://github.com/Zjoswaa/HR-Y2-Networking) | Networking course, mostly theory, 7 Layer OSI model theory and practice.
 | [HR-Y2-Databases](https://github.com/Zjoswaa/HR-Y2-Databases) | Databases in C# using EntityFramework.
+| [HR-Y1-World-of-Sound](https://github.com/Zjoswaa/HR-Y1-World-of-Sound) | Elective course about sound theory and mechanics.
 ## Projects
 Projects I have worked on at the Rotterdam University of Applied Sciences.
 | Project | Description |
